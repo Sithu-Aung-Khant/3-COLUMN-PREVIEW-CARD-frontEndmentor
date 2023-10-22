@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+} 
+
+h3 {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 33px;
+}
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    margin-top: 50px;
+}
+
+p {
+    font-size: 14px;
+    height: 170px;
+    opacity: 60%;
+}
+
+/* 
+When I tried to use Bootstrap for buttons. I couldn't change the sytle of the button when it hover. To fix this, 
+I would have needed to work with SASS and customize Bootstrap's default settings, which would have taken a lot of time and effort.
+So I choose to use plain CSS instead.
+*/
+
+.button {
+    font-size: 13px;
+    border: 2px solid hsl(0, 0%, 95%);
+    background-color: hsl(0, 0%, 95%);
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 9px 22px;
+}
+
+.button:hover {
+    background-color: transparent;
+    color: white;
+}
+
+.sedens {
+    color: hsl(31, 77%, 52%);
+}
+
+.suvs {
+    color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+    color: hsl(179, 100%, 13%);
+}
+
+/* I wanted to make rounded-top and rounded-bottom on small screen sizes and rounded-start and rouned-end from medium size screens. */
+/* I can't do that with Bootstrap so I used custom-t and custom-b for achieving the result. */
+.custom-t {
+    border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.custom-b {
+    border-radius: 0 0 0.5rem 0.5rem;
+}
+
+@media screen and (min-width: 768px) {
+    .custom-t {
+        border-radius: 0.5rem 0 0 0.5rem;
+    }
+
+    .custom-b {
+        border-radius: 0 0.5rem 0.5rem 0;
+    }
+}
+
+.attribution { 
+    font-size: 12px;
+    padding: 10px; 
+    text-align: center; 
+    color: black;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
