@@ -6,15 +6,10 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Built with](#built-with)
   - [My Solution](#my-solution)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -27,68 +22,23 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### My Solution
-
-![](./assets/solutions/desktop.png)
-
-### Links
-
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://3-column-preview-card-by-sithu-thedev.netlify.app/](https://3-column-preview-card-by-sithu-thedev.netlify.app/)
-
-## My process
-
 ### Built with
 
 - HTML
 - CSS
 - Bootstrap-5
 
-### What I learned
+### My Solution
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+![](./assets/solutions/desktop.png)
 
-To see how you can add code snippets, see below:
+### Links
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-<!-- **Note: Delete this note and the content within this section and replace with your own learnings.** -->
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- Solution URL: [CLICK HERE](https://www.frontendmentor.io/solutions/3columnpreviewcardcompoentwithbootstrap5--782RHEsl4)
+- Live Site URL: [CLICK HERE](https://3-column-preview-card-by-sithu-thedev.netlify.app/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Challenges I encountered
-
-- setting rounded effect on bootstrap gird system
+- Website - [Sithu Aung Khant](https://www.your-site.com)
+- Frontend Mentor - [@Sithu-Aung-Khant](https://www.frontendmentor.io/profile/Sithu-Aung-Khant)
+- Twitter - [@Sithu_AungKhant](https://twitter.com/Sithu_AungKhant)
