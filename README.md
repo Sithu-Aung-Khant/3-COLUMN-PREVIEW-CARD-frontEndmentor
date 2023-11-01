@@ -11,8 +11,6 @@ This is my solution to the [3-column preview card component challenge on Fronten
   - [Links](#links)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
